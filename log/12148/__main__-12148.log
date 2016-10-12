@@ -1,0 +1,2 @@
+[2016-09-01 10:25:34,453] [ERROR] [__main__-12148.log] [psia_wrap.py:request_psia_cmd:262] [exception url:http://172.16.1.199:80/PSIA/System/status]
+[2016-09-01 10:25:43,279] [WARNING] [__main__-12148.log] [psia_wrap.py:register_device:223] [register faile id:10 ip:172.16.1.199]

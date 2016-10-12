@@ -1,0 +1,1 @@
+[2016-09-08 14:35:35,750] [ERROR] [__main__-10744.log] [psia_wrap.py:try_get_device_info:448] [try device id: ip:172.16.1.195 pid:10744 threadid:7912 exception fail!!!]

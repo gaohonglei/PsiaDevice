@@ -1,0 +1,1 @@
+[2016-09-08 13:20:23,904] [ERROR] [__main__-2192.log] [psia_wrap.py:try_get_device_info:463] [try device id: ip:172.20.50.7 pid:2192 threadid:8852 exception fail:'ascii' codec can't encode characters in position 653-660: ordinal not in range(128)!!!]

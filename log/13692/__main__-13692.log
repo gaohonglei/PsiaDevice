@@ -1,0 +1,25 @@
+[2016-09-08 13:22:26,395] [INFO] [__main__-13692.log] [psia_wrap.py:try_get_device_info:416] [video_out_data:<?xml version="1.0" encoding="UTF-8"?>
+<VideoInputChannelList version="1.0" xmlns:xlink="urn:psialliance-org">
+<VideoInputChannel version="1.0" xmlns:xlink="urn:psialliance-org">
+<id>1</id>
+<inputPort>1</inputPort>
+<powerLineFrequencyMode>50hz</powerLineFrequencyMode>
+<whiteBalanceMode>auto</whiteBalanceMode>
+<exposureMode>auto</exposureMode>
+<gainLevel>67</gainLevel>
+<brightnessLevel>50</brightnessLevel>
+<contrastLevel>54</contrastLevel>
+<saturationLevel>63</saturationLevel>
+<hueLevel>52</hueLevel>
+<WDREnabled>false</WDREnabled>
+<DayNightFilter>
+<dayNightFilterType>day</dayNightFilterType>
+</DayNightFilter>
+<Extensions>
+<name>滨河南路高速东口</name>
+<videoFormat>PAL</videoFormat>
+</Extensions>
+</VideoInputChannel>
+</VideoInputChannelList>
+]
+[2016-09-08 13:22:26,441] [INFO] [__main__-13692.log] [psia_wrap.py:try_get_device_info:442] [try device success id: ip:172.20.50.7 pid:13692 threadid:13564.]

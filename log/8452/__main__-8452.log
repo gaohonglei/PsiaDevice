@@ -1,0 +1,138 @@
+[2016-09-08 13:35:46,194] [INFO] [__main__-8452.log] [psia_wrap.py:try_get_device_info:385] [device:object #0 (::Vistek::Data::DmDevice)
+{
+    DeviceID = 
+    DeviceName = 
+    Manufacture = 
+    Extension = 
+    ParentID = 
+    SiteID = 
+    Code = 
+    IP = 172.20.50.63
+    Port = 80
+    Username = admin
+    Password = 12345
+    ProtocolFlag = 0
+    PlatformID = 
+    ChangedDateTime = 
+    ExtensionID = 
+    SystemID = 
+    Latitude = 0.0
+    Longitude = 0.0
+    Status = 0
+    DeviceCategory = <nil>
+    StorageList = {}
+    ChannelList = {}
+    RuleList = {}
+    Platform = <nil>
+    reserved = 
+}]
+[2016-09-08 13:35:46,272] [INFO] [__main__-8452.log] [psia_wrap.py:try_get_device_info:417] [video_out_data:<?xml version="1.0" encoding="UTF-8"?>
+<VideoInputChannelList version="1.0" xmlns="urn:psialliance-org">
+<VideoInputChannel version="1.0" xmlns="urn:psialliance-org">
+<id>1</id>
+<inputPort>1</inputPort>
+<powerLineFrequencyMode>50hz</powerLineFrequencyMode>
+<whiteBalanceMode>auto</whiteBalanceMode>
+<whiteBalanceLevel>64</whiteBalanceLevel>
+<brightnessLevel>50</brightnessLevel>
+<contrastLevel>60</contrastLevel>
+<sharpnessLevel>35</sharpnessLevel>
+<saturationLevel>50</saturationLevel>
+<WDREnabled>false</WDREnabled>
+<WDRLevel>1</WDRLevel>
+<DayNightFilter>
+<dayNightFilterType>auto</dayNightFilterType>
+</DayNightFilter>
+<Extensions>
+<name>八一街南口1</name>
+<videoFormat>PAL</videoFormat>
+</Extensions>
+</VideoInputChannel>
+</VideoInputChannelList>
+]
+[2016-09-08 13:35:46,318] [INFO] [__main__-8452.log] [psia_wrap.py:try_get_device_info:429] [id_node:1]
+[2016-09-08 13:35:46,318] [INFO] [__main__-8452.log] [psia_wrap.py:try_get_device_info:439] [device:object #0 (::Vistek::Data::DmDevice)
+{
+    DeviceID = 
+    DeviceName = 
+    Manufacture = hikvision
+    Extension = 
+    ParentID = 
+    SiteID = 
+    Code = 
+    IP = 172.20.50.63
+    Port = 80
+    Username = admin
+    Password = 12345
+    ProtocolFlag = 0
+    PlatformID = 
+    ChangedDateTime = 
+    ExtensionID = 
+    SystemID = 
+    Latitude = 0.0
+    Longitude = 0.0
+    Status = 0
+    DeviceCategory = <nil>
+    StorageList = {}
+    ChannelList = {}
+    RuleList = {}
+    Platform = <nil>
+    reserved = 
+}]
+[2016-09-08 13:35:46,318] [INFO] [__main__-8452.log] [psia_wrap.py:try_get_device_info:440] [channel_list:[object #0 (::Vistek::Data::DmDeviceVideoChannel)
+{
+    DeviceID = 
+    ChannelIndex = 0
+    SystemID = 
+    Name = 172.20.50.63-0
+    IsPTZEnabled = False
+    DeviceIndex = 0
+    GroupIndex = 0
+    ExtensionID = 
+    Latitude = 0.0
+    Longitude = 0.0
+}]]
+[2016-09-08 13:35:46,318] [INFO] [__main__-8452.log] [psia_wrap.py:try_get_device_info:443] [device:object #0 (::Vistek::Data::DmDevice)
+{
+    DeviceID = 
+    DeviceName = 
+    Manufacture = hikvision
+    Extension = 
+    ParentID = 
+    SiteID = 
+    Code = 
+    IP = 172.20.50.63
+    Port = 80
+    Username = admin
+    Password = 12345
+    ProtocolFlag = 0
+    PlatformID = 
+    ChangedDateTime = 
+    ExtensionID = 
+    SystemID = 
+    Latitude = 0.0
+    Longitude = 0.0
+    Status = 0
+    DeviceCategory = <nil>
+    StorageList = {}
+    ChannelList = 
+    {
+        [0] = object #1 (::Vistek::Data::DmDeviceVideoChannel)
+        {
+            DeviceID = 
+            ChannelIndex = 0
+            SystemID = 
+            Name = 172.20.50.63-0
+            IsPTZEnabled = False
+            DeviceIndex = 0
+            GroupIndex = 0
+            ExtensionID = 
+            Latitude = 0.0
+            Longitude = 0.0
+        }
+    }
+    RuleList = {}
+    Platform = <nil>
+    reserved = 
+}]
+[2016-09-08 13:35:46,318] [INFO] [__main__-8452.log] [psia_wrap.py:try_get_device_info:447] [try device success id: ip:172.20.50.63 pid:8452 threadid:12092.]

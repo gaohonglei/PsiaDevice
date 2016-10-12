@@ -1,0 +1,5 @@
+[2016-08-31 10:43:27,030] [INFO] [__main__-12412.log] [psia_wrap.py:register_device:200] [register success id:10 ip:172.16.1.198]
+[2016-08-31 10:43:27,170] [INFO] [__main__-12412.log] [psia_wrap.py:register_device:200] [register success id:11 ip:172.16.1.198]
+[2016-08-31 10:43:27,171] [INFO] [__main__-12412.log] [psia_wrap.py:get_device_status:329] [device_stats:<?xml version='1.0' encoding='UTF-8'?>
+<device_status device_id="10" ip="172.16.1.198" port="80">True</device_status>]
+[2016-08-31 10:43:27,296] [INFO] [__main__-12412.log] [psia_wrap.py:register_device:200] [register success id:12 ip:172.16.1.198]

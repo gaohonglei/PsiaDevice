@@ -1,0 +1,1 @@
+[2016-09-09 11:32:21,315] [ERROR] [__main__-9628.log] [psia_wrap.py:try_get_device_info:456] [try device id: ip:172.16.1.198 pid:9628 threadid:14608 exception fail!!!]
